@@ -1,5 +1,5 @@
 {
-  "name": "emojione",
+  "name": "emojione-no-assets",
   "version": "2.1.4",
   "main": [
     "assets/css/emojione.css",
